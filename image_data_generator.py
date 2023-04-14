@@ -54,4 +54,3 @@ def  image_data_generator_test(test_dir):
         seed=42)
     
     return test_generator
-
