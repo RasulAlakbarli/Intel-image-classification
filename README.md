@@ -16,7 +16,7 @@ If you want to use the code, clone the repository to your local machine using "h
 Intel image dataset consist of images of Natural Scenes around the world. The data contains around 25k images of size 150x150 distributed under 6 categories: buildings, forest, glacier, mountain, sea, street. This repository consist of number of algorithms for classifying the dataset. The goal of this repo is to compare algotithms and analyse results to find the best model for solving this problem.
 
 # Description
-Full repo will consist of these algorithms:
+Full repo will consist of these models:
 1. AlexNet ☑️
 2. ResNet 
 3. VGG-16 
