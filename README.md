@@ -18,17 +18,17 @@ Intel image dataset consist of images of Natural Scenes around the world. The da
 # Description
 Full repo will consist of these models:
 1. AlexNet ☑️
-2. ResNet 
+2. ResNet ☑️
 3. VGG-16 
 4. Inception 
 5. MobileNetV2
 
 # Results
 ### AlexNet 
-After training, 95% train and 85% (temporarily) validation accuracy scores were obtained. Model contains total of 30 million parameters.
+Results of 85% train and 85% validation accuracies were obtained. Model contains total of 30 million parameters.
 
 ### ResNet 
-Coming soon...😉
+Results of 85% train and 71% validation accuracies were obtained. During training, inconsistencies in validation accuracy were observed. The model will be improved. Model contains total of 23 million parameters.
 
 ### VGG-16 
 Coming soon...😉
