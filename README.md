@@ -18,7 +18,7 @@ Intel image dataset consist of images of Natural Scenes around the world. The da
 # Description
 Full repo will consist of these models:
 1. AlexNet ☑️
-2. ResNet 
+2. ResNet ☑️
 3. VGG-16 
 4. Inception 
 5. MobileNetV2
