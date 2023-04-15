@@ -1,3 +1,5 @@
+# In this file, we define functions to generate datasets and labels from directories using ImageDataGenerator
+
 from keras.preprocessing.image import ImageDataGenerator
 
 
