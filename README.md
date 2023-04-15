@@ -25,7 +25,7 @@ Full repo will consist of these models:
 
 # Results
 ### AlexNet 
-Results of 85% train and 85% validation accuracies were obtained. Model contains total of 30 million parameters.
+Results of 85% train and 82% validation accuracies were obtained. Model contains total of 30 million parameters.
 
 ### ResNet 
 Results of 85% train and 71% validation accuracies were obtained. During training, inconsistencies in validation accuracy were observed. The model will be improved. Model contains total of 23 million parameters.
